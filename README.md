@@ -29,7 +29,7 @@ The goal was to simulate a real-world compliance analytics workflow: extract and
 | Method | Overall Fraud Rate | Fraud Rate Among Flagged | Lift |
 |---|---|---|---|
 | Z-score | 9.35% | 46.44% | **4.96x** |
-| Isolation Forest | 9.35% | *(add your result)* | *(add your result)* |
+| Isolation Forest | 9.35% | 52.1% | **5.2x** |
 
 The z-score method alone identified a set of providers nearly **5x more likely** to be confirmed fraudulent than the dataset average — demonstrating that even simple statistical thresholds can meaningfully narrow down where compliance review effort should focus.
 
