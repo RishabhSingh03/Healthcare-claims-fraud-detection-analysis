@@ -32,5 +32,3 @@ The goal was to simulate a real-world compliance analytics workflow: extract and
 | Isolation Forest | 9.35% | 52.1% | **5.2x** |
 
 The z-score method alone identified a set of providers nearly **5x more likely** to be confirmed fraudulent than the dataset average — demonstrating that even simple statistical thresholds can meaningfully narrow down where compliance review effort should focus.
-
-## Files
